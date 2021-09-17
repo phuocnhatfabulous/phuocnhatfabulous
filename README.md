@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to learn language.
 
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
 [<img src="https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFjYm9va3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -94,7 +94,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 <!-- [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
