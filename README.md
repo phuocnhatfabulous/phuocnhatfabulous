@@ -1,7 +1,11 @@
 ### Hi there, I'm Phước Nhật 👋
 
-[Facebook](https://www.facebook.com/PhuocNhatdeptraithongminhsiengnanghihi/)
-[Instagram](https://www.instagram.com/doanphuocnhat020/)
+[facebook](https://www.facebook.com/PhuocNhatdeptraithongminhsiengnanghihi/)
+          
+           
+<a href="https://www.instagram.com/doanphuocnhat020/">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
 
 ## I'm a student!!
 
