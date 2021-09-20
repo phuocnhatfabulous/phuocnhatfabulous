@@ -4,7 +4,7 @@
 <a href="https://www.facebook.com/PhuocNhatdeptraithongminhsiengnanghihi/">
     <img height="32" alt="Facebook" src="img/icons/facebook.svg" />
 </a>          
- &nbsp;
+ &nbsp; &emsp;
 <a href="https://www.instagram.com/doanphuocnhat020/">
     <img height="32" alt="Instagram" src="img/icons/instagram.png" />
 </a>
