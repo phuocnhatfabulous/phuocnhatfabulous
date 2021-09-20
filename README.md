@@ -7,6 +7,8 @@
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 <br>
+
+---
 ## I'm a student!!
 
 - 🌱 I’m currently studying university 🤣
