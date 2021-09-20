@@ -1,13 +1,14 @@
 ### Hi there, I'm Phước Nhật 👋
 
-[facebook](https://www.facebook.com/PhuocNhatdeptraithongminhsiengnanghihi/)
+<p align="left">
 <a href="https://www.facebook.com/PhuocNhatdeptraithongminhsiengnanghihi/">
-    <img height="32" align="left" alt="Facebook" src="img/icons/facebook.svg" />
+    <img height="32" alt="Facebook" src="img/icons/facebook.svg" />
 </a>          
  
 <a href="https://www.instagram.com/doanphuocnhat020/">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" alt="Instagram" src="img/icons/instagram.png" />
 </a>
+</p>
 <br>
 
 ---
