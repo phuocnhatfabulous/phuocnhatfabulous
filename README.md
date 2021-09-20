@@ -15,7 +15,7 @@
 - 🥅   2021 Goals: Contribute more to Open Source projects
 - ⚡    Fun fact: I love to learn language.
 <p align="center">
-  <img width="250" src="https://media3.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif?cid=ecf05e47nji0nhcd1bcyayor8yxm0kozjynhnuceaw55t3ye&rid=giphy.gif&ct=g">
+  <img width="300" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 <!-- 
 
