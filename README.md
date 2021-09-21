@@ -1,7 +1,3 @@
-<p align="center>
-        Hihihi  
-</p>
-
 ### Hi there, I'm *Phước Nhật* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left">
@@ -14,7 +10,9 @@
     <img height="32" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 ---
 
 ## I'm a student!!!
