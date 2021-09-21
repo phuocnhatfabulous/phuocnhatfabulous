@@ -16,7 +16,6 @@
 </a>
 </p>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 ---
 ## I'm a student!!
 - 🏠   I’m currently living at HCM City, VietNam🇻🇳.
