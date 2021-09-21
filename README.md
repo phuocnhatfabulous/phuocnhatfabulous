@@ -12,7 +12,8 @@
     <img height="32" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 </p>
-===
+
+---
 
 ## I'm a student!!!
 
