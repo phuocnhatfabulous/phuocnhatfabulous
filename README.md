@@ -1,7 +1,6 @@
 <p align="center">
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile;My name is Phước Nhật; I'm VietNamese; Follow me to know more&font=Fira%20Code&color=F7740E&size=24&center=true&width=380&height=50"> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7740E&size=24&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 </p>
 
