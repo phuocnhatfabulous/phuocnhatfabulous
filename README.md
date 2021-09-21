@@ -1,7 +1,4 @@
-<p align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
- [[!Typing]("https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile;My name is Phước Nhật; I'm VietNamese; Follow me to know more&font=Fira%20Code&color=F7740E&size=24&center=true&width=380&height=50")]
-</p>
+
 
 ### Hi there, I'm *Phước Nhật* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -17,7 +14,8 @@
 </p>
 <br>
 ---
-## I'm a student!!
+## I'm a student!!!
+
 - 🏠   I’m currently living at HCM City, VietNam🇻🇳.
 - 🌱   I’m currently studying university.
 - ⚡    Habit: I love to learn new technology.
