@@ -48,3 +48,4 @@
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p> -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7740E&size=24&lines=Doan+Phuoc+Nhat; 123)](https://git.io/typing-svg)
