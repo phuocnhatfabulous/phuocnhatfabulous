@@ -48,4 +48,4 @@
 
 
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7740E&size=24&lines=Doan+Phuoc+Nhat)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7740E&size=24&lines=Doan+Phuoc+Nhat)](https://git.io/typing-svg)
