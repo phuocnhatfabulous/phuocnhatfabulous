@@ -1,6 +1,7 @@
 <p align="center">
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile;My name is Phước Nhật; I'm VietNamese; Follow me to know more&font=Fira%20Code&color=F7740E&size=24&center=true&width=380&height=50"> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7740E&size=24&lines=Welcome to my profile;My name is Phước Nhật; I'm VietNamese; Follow me to know more)](https://git.io/typing-svg)
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F7740E&size=24&lines=Welcome+to+my+profile; My+name+is+Phước+Nhật; I'm+VietNamese; Follow+me+to +know + more)](https://git.io/typing-svg)
 </p>
 
 ### Hi there, I'm *Phước Nhật* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
