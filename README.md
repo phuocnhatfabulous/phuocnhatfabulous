@@ -20,8 +20,8 @@
 - 🏠   I’m currently living at HCM City, VietNam🇻🇳.
 - 🌱   I’m currently studying university.
 - ⚡    Habit: I love to learn new technology.
-- 🥅   2021 Goals: Contribute more to language programming.
-- 🤓   I'm trying to learn completely some languages programming
+- 🥅   2021 Goals: Contribute more to programming languages.
+- 🤓   I'm trying to learn completely some programming languages.
 
 <p>
 <img src="icons/csharp.png">
